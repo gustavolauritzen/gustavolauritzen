@@ -335,20 +335,11 @@ Intelligent multi-agent system for delivery route optimization using distributed
 
 <div align="center">
 
-<a href="https://github.com/gustavolauritzen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/gustavolauritzen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&langs_count=7&theme=tokyonight)
 
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=gustavolauritzen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavolauritzen&theme=tokyonight)
 
 </div>
 
