@@ -176,44 +176,9 @@ Sistema multiagente inteligente para otimização de rotas de entrega usando con
 
 <br/>
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=gustavolauritzen&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br/>
-
-## Contato
-
-<div align="center">
-
-**Aberto a oportunidades, colaborações e discussões sobre tecnologia**
-
-[![Email](https://img.shields.io/badge/Email-gustavo.lauritzen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lauritzen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Baron_Lauritzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baron-lauritzen-ba0584237/)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gustavolauritzen&color=58A6FF&style=flat-square)
-
-</div>
-
-<br/><br/>
-
 ---
 
-<br/><br/>
+<br/>
 
 # English
 
@@ -381,15 +346,19 @@ Intelligent multi-agent system for delivery route optimization using distributed
 
 <br/>
 
-## Contact
+---
+
+<br/>
+
+## GitHub Statistics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
+</div>
 
-**Open to opportunities, collaborations, and discussions about technology**
-
-[![Email](https://img.shields.io/badge/Email-gustavo.lauritzen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lauritzen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Baron_Lauritzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baron-lauritzen-ba0584237/)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavolauritzen&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=38bdae"/>
 </div>
 
 <br/>
