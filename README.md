@@ -174,98 +174,17 @@ Sistema multiagente inteligente para otimização de rotas de entrega usando con
 </tr>
 </table>
 
-### Visão Computacional & Processamento de Imagens
-
-<table>
-<tr>
-<td width="50%">
-
-#### Filtros de Segmentação de Imagens
-Implementação de diversos algoritmos de segmentação de imagens para processamento digital.
-
-**Stack:** Python, OpenCV, Jupyter Notebook
-
-[![Repo](https://img.shields.io/badge/Repo-FiltrosSegmentacao-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/FiltrosSegmentacao)
-
-</td>
-<td width="50%">
-
-#### Filtros Espaciais & Métricas
-Operações pontuais, filtragem espacial e implementação de métricas de qualidade de imagem.
-
-**Stack:** Python, NumPy, Computer Vision
-
-[![Repo](https://img.shields.io/badge/Repo-FiltrosEspacias--FDA-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/FiltrosEspacias-FDA)
-
-</td>
-</tr>
-</table>
-
-### Programação de Sistemas
-
-<table>
-<tr>
-<td width="50%">
-
-#### Análise de Falhas de Página - SO
-Ferramenta de análise de paginação de memória e falhas de página para estudo de sistemas operacionais.
-
-**Stack:** C, Sistemas Operacionais
-
-[![Repo](https://img.shields.io/badge/Repo-trabalhoM2SO-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/trabalhoM2SO)
-
-</td>
-<td width="50%">
-
-#### Calculadora de Instruções
-Ferramenta de cálculo e análise de instruções de CPU.
-
-**Stack:** C++
-
-[![Repo](https://img.shields.io/badge/Repo-CalculoInstrucoesM2-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/CalculoInstrucoesM2)
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavolauritzen&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavolauritzen&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9"/>
-
-</div>
-
-<br/>
-
-## Atividade de Contribuição
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavolauritzen&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavolauritzen&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavolauritzen&theme=github_dark" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=gustavolauritzen&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -277,8 +196,8 @@ Ferramenta de cálculo e análise de instruções de CPU.
 
 **Aberto a oportunidades, colaborações e discussões sobre tecnologia**
 
-[![Email](https://img.shields.io/badge/Email-seu--email@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lauritzen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baron-lauritzen-ba0584237/)
+[![Email](https://img.shields.io/badge/Email-gustavo.lauritzen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lauritzen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Baron_Lauritzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baron-lauritzen-ba0584237/)
 
 </div>
 
@@ -286,10 +205,7 @@ Ferramenta de cálculo e análise de instruções de CPU.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gustavolauritzen&color=58A6FF&style=flat)
-[![Years Badge](https://badges.pufler.dev/years/gustavolauritzen?style=flat&color=58A6FF)](https://github.com/gustavolauritzen)
-[![Repos Badge](https://badges.pufler.dev/repos/gustavolauritzen?style=flat&color=58A6FF)](https://github.com/gustavolauritzen)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/gustavolauritzen?style=flat&color=58A6FF)](https://github.com/gustavolauritzen)
+![Profile Views](https://komarev.com/ghpvc/?username=gustavolauritzen&color=58A6FF&style=flat-square)
 
 </div>
 
@@ -463,60 +379,6 @@ Intelligent multi-agent system for delivery route optimization using distributed
 </tr>
 </table>
 
-### Computer Vision & Image Processing
-
-<table>
-<tr>
-<td width="50%">
-
-#### Image Segmentation Filters
-Implementation of various image segmentation algorithms for digital image processing.
-
-**Stack:** Python, OpenCV, Jupyter Notebook
-
-[![Repo](https://img.shields.io/badge/Repo-FiltrosSegmentacao-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/FiltrosSegmentacao)
-
-</td>
-<td width="50%">
-
-#### Spatial Filters & Metrics
-Point operations, spatial filtering and image quality metrics implementation.
-
-**Stack:** Python, NumPy, Computer Vision
-
-[![Repo](https://img.shields.io/badge/Repo-FiltrosEspacias--FDA-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/FiltrosEspacias-FDA)
-
-</td>
-</tr>
-</table>
-
-### Systems Programming
-
-<table>
-<tr>
-<td width="50%">
-
-#### OS Page Fault Analysis
-Memory paging and page fault analysis tool for operating systems study.
-
-**Stack:** C, Operating Systems
-
-[![Repo](https://img.shields.io/badge/Repo-trabalhoM2SO-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/trabalhoM2SO)
-
-</td>
-<td width="50%">
-
-#### Instruction Calculator
-CPU instruction calculation and analysis tool.
-
-**Stack:** C++
-
-[![Repo](https://img.shields.io/badge/Repo-CalculoInstrucoesM2-181717?style=flat&logo=github)](https://github.com/gustavolauritzen/CalculoInstrucoesM2)
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## Contact
@@ -525,8 +387,8 @@ CPU instruction calculation and analysis tool.
 
 **Open to opportunities, collaborations, and discussions about technology**
 
-[![Email](https://img.shields.io/badge/Email-seu--email@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lauritzen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baron-lauritzen-ba0584237/)
+[![Email](https://img.shields.io/badge/Email-gustavo.lauritzen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lauritzen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Baron_Lauritzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baron-lauritzen-ba0584237/)
 
 </div>
 
