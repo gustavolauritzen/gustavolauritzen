@@ -335,11 +335,18 @@ Intelligent multi-agent system for delivery route optimization using distributed
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=gustavolauritzen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolauritzen&layout=compact&langs_count=7&theme=tokyonight)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavolauritzen&theme=tokyonight)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavolauritzen&theme=tokyonight" alt="GitHub Streak" />
+</a>
 
 </div>
 
